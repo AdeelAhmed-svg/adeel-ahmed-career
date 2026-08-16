@@ -25,8 +25,7 @@ export const Route = createRootRoute({
     ],
     links: [
       { rel: 'icon', href: '/favicon.ico' },
-      // Replace with the final production URL once the site is live on its permanent domain.
-      { rel: 'canonical', href: '[ADD CANONICAL URL]' },
+      { rel: 'canonical', href: 'https://adeel-ahmed-career.netlify.app/' },
     ],
   }),
   shellComponent: RootDocument,
