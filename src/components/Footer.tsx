@@ -1,5 +1,5 @@
 const GITHUB_URL = 'https://github.com/AdeelAhmed-svg'
-const LINKEDIN_URL = 'https://www.linkedin.com/adeelahmed-'
+const LINKEDIN_URL = 'https://www.linkedin.com/in/adeelahmed-'
 
 export function Footer() {
   return (
