@@ -1,6 +1,6 @@
 import { ArrowUpRight, Github, Linkedin, Mail } from 'lucide-react'
 
-const LINKEDIN_URL = 'https://www.linkedin.com/adeelahmed-'
+const LINKEDIN_URL = 'https://www.linkedin.com/in/adeelahmed-'
 const GITHUB_URL = 'https://github.com/AdeelAhmed-svg'
 
 export function Hero() {
@@ -53,12 +53,14 @@ export function Hero() {
             Connect on LinkedIn
             <ArrowUpRight size={16} />
           </a>
-          <span
-            title="A CV file has not been added to the project yet. Add cv.pdf to the public folder and update this button to enable downloads."
-            className="inline-flex cursor-not-allowed items-center gap-2 rounded-md border border-dashed border-white/15 px-6 py-3 text-sm font-medium text-neutral-500"
+          <a
+            href="https://drive.google.com/file/d/16g4jsgZ4KV3_Q-ghSAZ119pBTb0LRafO/view?usp=drivesdk"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 rounded-md border border-white/20 px-6 py-3 text-sm font-medium text-white transition-colors hover:border-white/40 hover:bg-white/5"
           >
-            Download CV · [ADD CV FILE]
-          </span>
+            Download CV
+          </a>
         </div>
 
         <div className="mt-14 flex flex-wrap items-center gap-6 border-t border-white/10 pt-8 text-sm text-neutral-400">
