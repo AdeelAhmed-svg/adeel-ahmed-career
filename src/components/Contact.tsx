@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Github, Linkedin, Mail, Send } from 'lucide-react'
 
-const LINKEDIN_URL = 'https://www.linkedin.com/adeelahmed-'
+const LINKEDIN_URL = 'https://www.linkedin.com/in/adeelahmed-'
 const GITHUB_URL = 'https://github.com/AdeelAhmed-svg'
 
 export function Contact() {
