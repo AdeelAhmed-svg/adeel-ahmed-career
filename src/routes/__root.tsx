@@ -18,10 +18,13 @@ export const Route = createRootRoute({
       { property: 'og:type', content: 'website' },
       { property: 'og:title', content: TITLE },
       { property: 'og:description', content: DESCRIPTION },
+      { property: 'og:url', content: 'https://adeel-ahmed-career.netlify.app/' },
+      { property: 'og:image', content: 'https://adeel-ahmed-career.netlify.app/og-image.png' },
       { property: 'og:locale', content: 'en_US' },
-      { name: 'twitter:card', content: 'summary' },
+      { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: TITLE },
       { name: 'twitter:description', content: DESCRIPTION },
+      { name: 'twitter:image', content: 'https://adeel-ahmed-career.netlify.app/og-image.png' },
     ],
     links: [
       { rel: 'icon', href: '/favicon.ico' },
@@ -36,6 +39,8 @@ function RootDocument({ children }: { children: React.ReactNode }) {
     <html lang="en">
       <head>
         <HeadContent />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DJ3ET78F9Z"></script>
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-DJ3ET78F9Z');` }} />
       </head>
       <body>
         {children}
