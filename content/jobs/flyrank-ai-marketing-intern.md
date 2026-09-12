@@ -2,9 +2,10 @@
 jobTitle: AI Marketing Intern
 company: FlyRank
 location: Remote
-startDate: "2026"
-status: Ongoing
-summary: Ongoing internship focused on AI Fluency, SEO, AEO, GEO and AI assisted marketing workflows.
+startDate: "1 July 2026"
+endDate: "31 August 2026"
+status: Completed
+summary: Completed internship focused on AI Fluency, SEO, AEO, GEO and AI assisted marketing workflows.
 tags:
   [
     "AI Marketing",
@@ -20,8 +21,8 @@ tags:
   ]
 ---
 
-This is an ongoing internship, not a completed role. Work is organized around two tracks: AI Marketing and AI Fluency.
+This internship has been completed. Work was organized around two tracks: AI Marketing and AI Fluency.
 
-Work areas covered so far include AI visibility research, marketing channel research, SEO and early AEO and GEO concepts, content strategy exercises, marketing audits, and building no code AI assisted workflows using tools such as NotebookLM, Claude, ChatGPT, Perplexity and Gemini.
+Work areas covered include AI visibility research, marketing channel research, SEO and early AEO and GEO concepts, content strategy exercises, marketing audits, and building no code AI assisted workflows using tools such as NotebookLM, Claude, ChatGPT, Perplexity and Gemini.
 
-Practical assignments have been completed across both the AI Marketing and AI Fluency tracks. The internship is in progress and this section will be updated as further assignments are completed.
+Practical assignments were completed across both the AI Marketing and AI Fluency tracks over the course of the internship.
