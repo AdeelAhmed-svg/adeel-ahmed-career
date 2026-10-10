@@ -6,6 +6,6 @@ tags: ["FlyRank", "Notes"]
 author: "Adeel Ahmed"
 ---
 
-This section is set up to hold future write-ups connected to the FlyRank internship, ongoing AI Fluency and AI Marketing assignments, and capstone project work.
+This section is set up to hold future write-ups connected to the completed FlyRank internship, its AI Fluency and AI Marketing assignments, and capstone project work.
 
 Posts will be added here as assignments are completed and there is something concrete and verified to share, rather than general commentary.

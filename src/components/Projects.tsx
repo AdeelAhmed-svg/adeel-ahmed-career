@@ -30,7 +30,7 @@ export function Projects() {
         </h2>
         <p className="mt-4 max-w-2xl text-lg leading-relaxed text-neutral-600">
           Real projects from academic capstone work, independent data
-          analytics practice and ongoing FlyRank internship assignments.
+          analytics practice and completed FlyRank internship assignments.
         </p>
 
         <div
