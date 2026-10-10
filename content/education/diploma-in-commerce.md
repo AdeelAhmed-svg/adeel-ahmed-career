@@ -2,9 +2,8 @@
 school: Government Institute of Business and Commercial Education, Lyari, Karachi
 program: Diploma in Commerce, Accounts Group
 board: Sindh Board of Technical Education
-summary: Completed 2023. 718 out of 1200 marks, C Division / Grade C.
+summary: Completed 2023.
 endDate: "2023"
-result: "718 / 1200, C Division"
 tags:
   [
     "Financial Accounting",
