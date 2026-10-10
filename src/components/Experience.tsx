@@ -13,7 +13,7 @@ export function Experience() {
           Experience
         </p>
         <h2 className="mt-3 font-serif text-3xl font-semibold text-white sm:text-4xl">
-          Current internship
+          Internship
         </h2>
 
         <div className="mt-12 space-y-8">
@@ -32,7 +32,8 @@ export function Experience() {
                   </p>
                 </div>
                 <span className="inline-flex items-center rounded-full border border-emerald-400/30 bg-emerald-400/10 px-3 py-1 text-xs font-medium text-emerald-300">
-                  {job.status} · {job.startDate} to Present
+                  {job.status} · {job.startDate}
+                  {job.endDate ? ` to ${job.endDate}` : null}
                 </span>
               </div>
 

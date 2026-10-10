@@ -23,7 +23,7 @@ export function About() {
               ecommerce experience with accounting and commerce education. I
               have built stronger analytical skills through Google
               Data Analytics, SQL, Power BI and business intelligence
-              learning, while developing practical AI marketing workflows
+              learning, and developed practical AI marketing workflows
               through the FlyRank internship.
             </p>
             <p>
