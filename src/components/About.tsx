@@ -15,13 +15,13 @@ export function About() {
           <div className="space-y-5 text-lg leading-relaxed text-neutral-700">
             <p>
               I am a digital marketing and SEO professional from Karachi,
-              Pakistan, currently developing deeper expertise in AI marketing
+              Pakistan, developing deeper expertise in AI marketing
               and data analytics.
             </p>
             <p>
               My background combines practical digital marketing and
               ecommerce experience with accounting and commerce education. I
-              am currently building stronger analytical skills through Google
+              have built stronger analytical skills through Google
               Data Analytics, SQL, Power BI and business intelligence
               learning, while developing practical AI marketing workflows
               through the FlyRank internship.
